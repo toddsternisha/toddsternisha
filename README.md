@@ -1,6 +1,8 @@
-App and web developer currently focused on Apple platforms, Swift, SwiftUI, and UIKit
 <!--
 **toddsternisha/toddsternisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+App and web developer currently focused on Apple platforms, Swift, SwiftUI, and UIKit
+
 
 Here are some ideas to get you started:
 
